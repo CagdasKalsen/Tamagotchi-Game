@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Tamagotchi Game
  - Displayed a character on the screen to represent our pet
 -  Displaed the following metrics:
@@ -14,7 +12,6 @@
 -  Added the ability to name our pet
 
 **  HTML-CSS-JAVASCRIPT **
->>>>>>> b35279a82bafde7bfd83cfdd441d04bd82dffc1d
 
 # Tamagotchi Game #
 - Displayed a character on the screen to represent our pet
